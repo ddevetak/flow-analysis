@@ -1,0 +1,16 @@
+[ libALICEReducedEvent.dylib ]
+# List of selected classes
+class AliReducedBaseEvent
+class AliReducedBaseTrack
+class AliReducedBaseTrackCut
+class AliReducedCaloClusterInfo
+class AliReducedEventCut
+class AliReducedEventInfo
+class AliReducedEventPlaneInfo
+class AliReducedFMDInfo
+class AliReducedInfoCut
+class AliReducedPairInfo
+class AliReducedTrackCut
+class AliReducedTrackInfo
+class AliReducedVarCut
+class AliReducedVarManager
